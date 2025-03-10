@@ -1,7 +1,6 @@
 # Lý Đại Cương - Portfolio
 
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio)  
-*(Mày có thể thay bằng ảnh banner của mày, upload lên Cloudinary rồi chèn link vào đây)*
+![Header]([https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio](https://res.cloudinary.com/djduytuel/image/upload/v1741596372/i34WIaXVRXNkVuVb-generated_image_uj6ghc.png))  
 
 Xin chào! Tao là **Lý Đại Cương**, một sinh viên ngành **Kỹ thuật Phần mềm** tại **Đại học Tôn Đức Thắng**. Tao đam mê lập trình, xây dựng những ứng dụng web chất lượng và luôn sẵn sàng học hỏi công nghệ mới. Portfolio này là nơi tao showcase kỹ năng và dự án của mình.
 
@@ -11,7 +10,7 @@ Xin chào! Tao là **Lý Đại Cương**, một sinh viên ngành **Kỹ thuậ
 - **Tên**: Lý Đại Cương  
 - **Hiện tại**: Sinh viên Kỹ thuật Phần mềm @ Đại học Tôn Đức Thắng  
 - **Mục tiêu**: Trở thành một Full-Stack Developer với khả năng xây dựng sản phẩm từ A-Z.  
-- **Fun fact**: Tao thích code đến mức quên cả giờ giấc!  
+- **Fun fact**: Tôi thích code đến mức quên cả giờ giấc!  
 
 ---
 
@@ -53,17 +52,8 @@ Xin chào! Tao là **Lý Đại Cương**, một sinh viên ngành **Kỹ thuậ
 ---
 
 ## 📬 Contact Me  
-- **Facebook**: [face/me](https://facebook.com/face/me)  
+- **Facebook**: [face/me]([https://facebook.com/face/me](https://www.facebook.com/me/))  
 - **Email**: [lydaicuong784@gmail.com](mailto:lydaicuong784@gmail.com)  
-
----
-
-## 💻 Projects  
-*(Mày có thể thêm các dự án của mày vào đây, ví dụ như sau)*  
-1. **Project 1**: Mô tả ngắn gọn (Tech stack: React, .NET Core, MS SQL).  
-   - [Link GitHub](#) | [Link Demo](#)  
-2. **Project 2**: Mô tả ngắn gọn (Tech stack: Express.js, MongoDB).  
-   - [Link GitHub](#) | [Link Demo](#)  
 
 ---
 
