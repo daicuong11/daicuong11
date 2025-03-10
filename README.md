@@ -1,6 +1,6 @@
 # Lý Đại Cương - Portfolio
 
-![Header]([https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio](https://res.cloudinary.com/djduytuel/image/upload/v1741596372/i34WIaXVRXNkVuVb-generated_image_uj6ghc.png))  
+![Header]([[https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio](https://res.cloudinary.com/djduytuel/image/upload/v1741596372/i34WIaXVRXNkVuVb-generated_image_uj6ghc.png)](https://res.cloudinary.com/djduytuel/image/upload/v1741596372/i34WIaXVRXNkVuVb-generated_image_uj6ghc.png))  
 
 Xin chào! Tao là **Lý Đại Cương**, một sinh viên ngành **Kỹ thuật Phần mềm** tại **Đại học Tôn Đức Thắng**. Tao đam mê lập trình, xây dựng những ứng dụng web chất lượng và luôn sẵn sàng học hỏi công nghệ mới. Portfolio này là nơi tao showcase kỹ năng và dự án của mình.
 
