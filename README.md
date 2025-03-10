@@ -21,7 +21,7 @@ Tôi là **Lý Đại Cương**, sinh viên ngành Kỹ thuật Phần mềm t�
 ---
 
 ## 📬 Contact
-- **Facebook**: [face/me](https://facebook.com/face/me)  
+- **Facebook**: [face/me](https://www.facebook.com/eodycy/))  
 - **Email**: [lydaicuong784@gmail.com](mailto:lydaicuong784@gmail.com)  
 
 ---
