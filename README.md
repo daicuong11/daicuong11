@@ -13,10 +13,10 @@ Tôi là **Lý Đại Cương**, sinh viên ngành Kỹ thuật Phần mềm t�
 ---
 
 ## 🛠 Skills
-- **Frontend**: React.js, TypeScript, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend**: .NET Core, ASP.NET Core, Express.js  
-- **Databases**: MS SQL Server, MongoDB, MySQL  
-- **Tools**: Git, GitHub, Cloudinary  
+- **Frontend**: React.js, TypeScript, Tailwind CSS, HTML, CSS, JavaScript, Blazor  
+- **Backend**: .NET Core, ASP.NET Core, Express.js, ABP Framework  
+- **Databases**: MS SQL Server, MongoDB, MySQL, PostgreSQL  
+- **Tools**: Git, GitHub, Cloudinary, Cursor AI  
 
 ---
 
