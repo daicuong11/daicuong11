@@ -3,7 +3,7 @@
 
 # Lý Đại Cương - Portfolio
 
-![Header]([https://res.cloudinary.com/djduytuel/image/upload/v1741596372/i34WIaXVRXNkVuVb-generated_image_uj6ghc.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522web%2Bdevelopment%2522&psig=AOvVaw2ERzcZTtZ37iO_0CZsD1bl&ust=1764209609940000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOigyI3fjpEDFQAAAAAdAAAAABAE))
+![Header](https://t3.ftcdn.net/jpg/07/52/08/12/360_F_752081227_nruXgif94zBL0Q4nYKNbrp0wQGvx6d6r.jpg)
 
 Tôi là **Lý Đại Cương**, sinh viên ngành Kỹ thuật Phần mềm tại Đại học Tôn Đức Thắng. Đam mê lập trình web và phát triển sản phẩm chất lượng.
 
