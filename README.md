@@ -13,7 +13,7 @@ Mình đam mê xây dựng các hệ thống web hướng doanh nghiệp, tối 
 ## 🚀 About Me
 
 - 🎓 **2021–2025** – Bachelor of Software Engineering @ **Tôn Đức Thắng University**
-- 💼 **Software Engineer / Fresher .NET Developer**
+- 💼 **Software Engineer**
 - 🌱 Quan tâm: **Enterprise Web Apps**, **DMS/AMS**, **Cloud-ready .NET applications**
 - 🎯 **Mục tiêu trung – dài hạn**:  
   Trở thành **Software Engineer** có thể thiết kế, xây dựng và dẫn dắt các giải pháp web ở quy mô lớn (enterprise),  
