@@ -1,7 +1,7 @@
 ![Footer](https://img.shields.io/badge/Made_by_Lý_Đại_Cương-000000?style=flat)  
 *(Cập nhật: 15/01/2026)*
 
-## 👨‍💻 Lý Đại Cương – Software Engineer / Fresher .NET Developer
+## 👨‍💻 Lý Đại Cương – Software Engineer
 
 ![Header](https://t3.ftcdn.net/jpg/07/52/08/12/360_F_752081227_nruXgif94zBL0Q4nYKNbrp0wQGvx6d6r.jpg)
 
