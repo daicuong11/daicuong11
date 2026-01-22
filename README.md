@@ -21,29 +21,6 @@ Mình đam mê xây dựng các hệ thống web hướng doanh nghiệp, tối 
 
 ---
 
-## 💼 Kinh nghiệm thực tế
-
-### HQSOFT COMPANY LIMITED (03/2025 – 11/2025) – .NET Developer
-
-#### 🔹 Ajinomoto VNTT – eSales DMS Solution
-- Hệ thống DMS doanh nghiệp trên **HQSOFT’s Xspire Business Platform** với **eSales DMS Solution**
-- **Công nghệ:** ABP Framework Asembli, **.NET Core 9**, **C#**, **Entity Framework**, **Blazor**, **DevExpress**, **PostgreSQL**
-- **Đóng góp chính:**
-  - Xây dựng các màn hình master data (sản phẩm, khách hàng, KPI, …)
-  - Tham gia trao đổi giải pháp, cải thiện UI/UX
-  - Hỗ trợ UAT & ổn định hệ thống giai đoạn Release Batch 1
-  - Sử dụng **Cursor AI Agents** để tăng tốc phát triển & refactor code
-
-#### 🔹 Sabeco AMS
-- Phần mềm quản lý phân phối & tự động hóa lực lượng bán hàng (DMS–SFA)
-- **Công nghệ:** ASP.NET MVC (Razor + Ext.NET), **HQ eSkyFramework**, **C#**, **JavaScript**, **SQL Server**
-- **Đóng góp chính:**
-  - Xây dựng các màn hình master data đơn giản
-  - Nắm được quy trình nghiệp vụ DMS–SFA
-  - Làm việc với **SQL Server** & **PostgreSQL** (truy vấn, debug dữ liệu)
-
----
-
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
