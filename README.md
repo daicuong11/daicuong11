@@ -5,7 +5,7 @@
 
 ![Header](https://t3.ftcdn.net/jpg/07/52/08/12/360_F_752081227_nruXgif94zBL0Q4nYKNbrp0wQGvx6d6r.jpg)
 
-Xin chào! Mình là **Lý Đại Cương**, Fresher .NET Developer, tốt nghiệp ngành **Kỹ thuật Phần mềm** tại **Đại học Tôn Đức Thắng** (GPA: **8.14/10**).  
+Xin chào! Mình là **Lý Đại Cương**, Fresher .NET Developer, tốt nghiệp ngành **Kỹ thuật Phần mềm** tại **Đại học Tôn Đức Thắng**.  
 Mình đam mê xây dựng các hệ thống web hướng doanh nghiệp, tối ưu trải nghiệm người dùng và chất lượng code.
 
 ---
